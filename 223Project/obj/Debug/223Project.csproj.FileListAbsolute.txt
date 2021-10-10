@@ -1,0 +1,12 @@
+D:\223\Project\223Project\223Project\bin\Debug\Librarian.mdf
+D:\223\Project\223Project\223Project\bin\Debug\Librarian_log.ldf
+D:\223\Project\223Project\223Project\bin\Debug\223Project.exe.config
+D:\223\Project\223Project\223Project\bin\Debug\223Project.exe
+D:\223\Project\223Project\223Project\bin\Debug\223Project.pdb
+D:\223\Project\223Project\223Project\obj\Debug\223Project.csprojAssemblyReference.cache
+D:\223\Project\223Project\223Project\obj\Debug\_223Project.Form1.resources
+D:\223\Project\223Project\223Project\obj\Debug\_223Project.Properties.Resources.resources
+D:\223\Project\223Project\223Project\obj\Debug\223Project.csproj.GenerateResource.cache
+D:\223\Project\223Project\223Project\obj\Debug\223Project.csproj.CoreCompileInputs.cache
+D:\223\Project\223Project\223Project\obj\Debug\223Project.exe
+D:\223\Project\223Project\223Project\obj\Debug\223Project.pdb
